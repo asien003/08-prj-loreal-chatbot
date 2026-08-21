@@ -7,7 +7,7 @@ const sendBtn = document.getElementById("sendBtn");
 
 
 const WORKER_URL =
-  "https://08-prj-loreal-chatbot.asien003.workers.dev/";
+  "https://08-prj-loreal-chatbot.asien003.workers.dev";
 
 
 
